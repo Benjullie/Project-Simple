@@ -46,3 +46,18 @@ p {
     color: #fff;
     border: 2px solid white;
 }
+
+@media  (max-width: 360px) {
+
+.wrapper{
+    width: 100%;
+    
+}
+  }
+
+  @media  (max-width: 780px) {
+    .wrapper{
+        width: 100%;
+ 
+    }
+      }
